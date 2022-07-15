@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amazon-fetch-product/static/css/main.e6c13ad2.css",
-    "main.js": "/amazon-fetch-product/static/js/main.1ee34af8.js",
-    "static/js/787.676f2749.chunk.js": "/amazon-fetch-product/static/js/787.676f2749.chunk.js",
-    "index.html": "/amazon-fetch-product/index.html",
-    "main.e6c13ad2.css.map": "/amazon-fetch-product/static/css/main.e6c13ad2.css.map",
-    "main.1ee34af8.js.map": "/amazon-fetch-product/static/js/main.1ee34af8.js.map",
-    "787.676f2749.chunk.js.map": "/amazon-fetch-product/static/js/787.676f2749.chunk.js.map"
+    "main.css": "/amazon-fetch-products/static/css/main.e6c13ad2.css",
+    "main.js": "/amazon-fetch-products/static/js/main.6c5605ee.js",
+    "static/js/787.676f2749.chunk.js": "/amazon-fetch-products/static/js/787.676f2749.chunk.js",
+    "index.html": "/amazon-fetch-products/index.html",
+    "main.e6c13ad2.css.map": "/amazon-fetch-products/static/css/main.e6c13ad2.css.map",
+    "main.6c5605ee.js.map": "/amazon-fetch-products/static/js/main.6c5605ee.js.map",
+    "787.676f2749.chunk.js.map": "/amazon-fetch-products/static/js/787.676f2749.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1ee34af8.js"
+    "static/js/main.6c5605ee.js"
   ]
 }
